@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2022-10-14-paper-English-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-10-14
-venue: 'Journal 1'
+venue: 'Structures'
 #slidesurl: 'http://Penghui-Zhang.github.io/files/slides1.pdf'
 paperurl: 'http://Penghui-Zhang.github.io/files/JournalEnglish1.pdf'
 #bibtexurl: 'http://Penghui-Zhang.github.io/files/bibtex1.bib'
