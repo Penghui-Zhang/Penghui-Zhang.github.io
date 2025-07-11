@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-10-14
 venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/journal1.pdf'
+paperurl: 'http://academicpages.github.io/files/JournalEnglish1.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Zhang P, Yuan W, Wang Z and Qu H. Cost-based optimum design of the earthquake-resistant system for continuous skew overpasses. Structures 2022; 45: 2051–66.'
 ---
