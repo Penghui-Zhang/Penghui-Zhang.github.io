@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Tongji University, 2020.09 - present (expected)
+* Visitor University of Auckland, 2024.07 - present (expected)
+* M.S. Tongji University, 2017.09 - 2020.06
+* B.S. Central South University, 2013.09 - 2017.06
 
 Work experience
 ======

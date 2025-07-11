@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2024-teaching-1
+#venue: "University 1, Department"
+date: 2024-01-20
+location: "Shanghai, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Programe
 ======
+Can we build smart and resilient structures using novel functional materials and smart devices to safeguard them against various natural and manmade hazards that can also help us fight climate change?
 
-Heading 2
+Professor
 ======
-
-Heading 3
-======
+Shahria Alam ( The University of British Columbia)
