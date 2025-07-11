@@ -3,7 +3,7 @@ title: "Full-scale experimental study on precast bridge column with grouted slee
 collection: publications
 category: manuscripts
 permalink: /publication/2023-08-14-paper-English-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'The test involved the largest precast bridge pier available at that time.'
 date: 2023-08-14
 venue: 'Engineering Structures'
 #slidesurl: 'http://Penghui-Zhang.github.io/files/slides2.pdf'

@@ -3,7 +3,7 @@ title: "Cost-based optimum design of the earthquake-resistant system for continu
 collection: publications
 category: manuscripts
 permalink: /publication/2022-10-14-paper-English-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This is the main work I completed during my master studies.'
 date: 2022-10-14
 venue: 'Structures'
 #slidesurl: 'http://Penghui-Zhang.github.io/files/slides1.pdf'
