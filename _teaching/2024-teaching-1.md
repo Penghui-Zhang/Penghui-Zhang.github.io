@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-teaching-1
-#venue: "University 1, Department"
+venue: "East China Normal University (ECNU)"
 date: 2024-01-20
 location: "Shanghai, China"
 ---
