@@ -6,8 +6,8 @@ permalink: /publication/2023-08-14-paper-English-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-08-14
 venue: 'Journal 2'
-#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/JournalEnglish2.pdf'
+#slidesurl: 'http://Penghui-Zhang.github.io/files/slides2.pdf'
+paperurl: 'http://Penghui-Zhang.github.io/files/JournalEnglish2.pdf'
 citation: 'Zhang P, Wang Z, Ge J, Yan X and Liu S. Full-scale experimental study on precast bridge column with grouted sleeve connections and large-diameter reinforcing bars. Engineering Structures 2023; 294: 116747'
 ---
 
