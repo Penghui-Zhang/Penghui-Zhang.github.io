@@ -8,7 +8,7 @@ ui# Welcome to Jekyll!
 
 # Basic Site Settings
 locale                   : "en-US"
-#site_theme               : "default"
+site_theme               : "default"
 title                    : "Penghui Zhang/Academic profile"
 title_separator          : "-"
 name                     : &name "Penghui Zhang"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Penghui Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Tongji University"
+  bio              : "Ph.D student at the department of bridge engineering of Tongji University"
   location         : "Shanghai, China"
-  employer         : 
+  employer         : "Tongji University"
   uri              : # URL
   email            : "penghui@tongji.edu.cn" 
 
