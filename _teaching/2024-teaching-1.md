@@ -8,7 +8,7 @@ date: 2024-01-20
 location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I completed my internship from Jan. 20, 2024 to Feb. 1, 2024 in Harbour Education. Throughout this internship, I have served as a teaching assistant for the following topic:
 
 Programe
 ======
